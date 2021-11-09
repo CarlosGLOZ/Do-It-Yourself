@@ -13,17 +13,17 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
     
    * Regla 6. Los elementos con identificador (id) `privilege` tendrán color `white` 
     
-   * Regla 7. Los elementos `h2` con clase `selector` y los elementos `h2` con identificador (id) `universal` tendrán color de fondo `darkcyan`, relleno de `1%` y esquinas redondeadas con valor de `5px`
+   * Regla 7. Los elementos `h1` tendrán de imagen de fondo la imagen 'shreeeeeeeeeeeeeeeeeeeeek.jpeg' adjuntada en la carpeta 'img'
     
-   * Regla 8. Los elementos `spam` tendrán `font-weight: 900;` y esta imagen de fondo: 
+   * Regla 8. Los elementos con clase `spam` tendrán `font-weight: 900;` y color de fondo `magenta`
     
-   * Regla 9. Los elementos `a` que sean hijos directos de algún `li` tendrán `text-decoration: none`
+   * Regla 9. Los elementos con clase `ª` que sean hijos directos de algún `li` tendrán esquinas redondeadas `border-radius` con valor de `5px`
     
-   * Regla 10. Los elementos `h3` tendrán color de fondo `background-color: rgba(0, 139, 139, 0.529);`, relleno de `0.5px` y esquinas redondeadas con valor de `5px`
+   * Regla 10. Los elementos con clase `camo` tendrán color de fondo `background-color: rgba(255, 255, 255, 0);`
     
-   * Regla 11. Los elementos `div` que sean descendientes de un elemento con id gallery tendrán un ancho `width` de `100%`
+   * Regla 11. Los elementos con clase `00` tendrán `width` de `100%` (imagen de kanye aquí)
     
-   * Regla 12. Los elementos `img` tendrán un ancho `width` de `100%`, un `border: solid darkcyan 1px;` y esquinas redondeadas con valor de `5px`
+   * Regla 12. 
 
    * Regla 13.
 
